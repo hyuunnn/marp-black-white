@@ -60,6 +60,22 @@ header: January 9, 2023
 </tr>
 </table>
 
+<table class="table_clean" align=center>
+<tr>
+  <td><img width="400" src="images/test.jpg"></td>
+  <td><img width="400" src="images/test.jpg"></td>
+  <td><img width="400" src="images/test.jpg"></td>
+</tr>
+<tr align=center>
+  <td>테스트</td>
+  <td>테스트테스트</td>
+</tr>
+</table>
+
+---
+
+# 사진
+
 ![width:450px center](images/test.jpg)
 ![w:400px h:125px center](images/test.jpg)
 
