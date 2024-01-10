@@ -62,3 +62,15 @@ header: January 9, 2023
 
 ![width:450px center](images/test.jpg)
 ![w:400px h:125px center](images/test.jpg)
+
+---
+
+# 각주 테스트
+
+* 각주$^1$
+  * 각주 테스트입니다.
+  * footnote
+
+> $^1$ https://en.wikipedia.org/wiki/Help:Footnotes
+> $^2$ 각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트
+> $^3$ testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
