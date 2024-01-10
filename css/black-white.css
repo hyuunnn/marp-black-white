@@ -56,6 +56,17 @@ footer {
   font-size: 20px;
 }
 
+blockquote {
+  max-width: 92%;
+  border-top: 0.1em solid black;
+  border-left: none;
+  padding-top: 4px;
+  font-size: 60%;
+  position: absolute;
+  bottom: 50px;
+  color:black;
+}
+
 /* https://github.com/kaisugi/marp-theme-academic/blob/main/themes/academic.css#L91 */
 img[alt~="center"] {
   display: block;
