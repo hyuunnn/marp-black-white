@@ -64,6 +64,6 @@ img[alt~="center"] {
 
 /* https://github.com/marp-team/marpit/issues/178#issuecomment-511106762 */
 tr, td, th {
-  border: none;
+  border: none!important;
   background-color: white;
 }
