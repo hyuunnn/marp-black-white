@@ -10,4 +10,4 @@
 
 ## Thanks
 
-<a href='https://github.com/kaisugi/marp-theme-academic">kaisugi - marp-theme-academic</a>
+<a href="https://github.com/kaisugi/marp-theme-academic">kaisugi - marp-theme-academic</a>
