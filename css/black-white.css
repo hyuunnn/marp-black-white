@@ -74,7 +74,9 @@ img[alt~="center"] {
 }
 
 /* https://github.com/marp-team/marpit/issues/178#issuecomment-511106762 */
-tr, td, th {
+.table_clean tr,
+.table_clean td,
+.table_clean th {
   border: none!important;
   background-color: white!important;
 }
