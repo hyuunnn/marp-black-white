@@ -90,3 +90,23 @@ header: January 9, 2023
 > $^1$ https://en.wikipedia.org/wiki/Help:Footnotes
 > $^2$ 각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트각주테스트
 > $^3$ testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+
+---
+
+# 소스코드 테스트
+
+* ### 소스코드
+  * 소스코드입니다.
+  * Source Code
+
+```python
+class Test:
+  def __init__(self, asdf):
+    self.asdf = asdf
+
+  def print(self):
+    print(self.asdf)
+
+a = Test("안녕하세요")
+a.print()
+```
