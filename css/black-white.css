@@ -34,7 +34,7 @@ section::after {
 }
 
 code {
-  font-family: 'Jetbrains Mono', 'consolas', monospace;
+  font-family: 'Jetbrains Mono';
 }
 
 header {
