@@ -6,6 +6,8 @@
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 /* https://github.com/JetBrains/JetBrainsMono */
 @import url("https://fonts.googleapis.com/css?family=JetBrains+Mono&display=swap");
+/* https://github.com/dtinth/comic-mono-font - Second Code Font */
+@import url("https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css");
 
 /* https://marpit.marp.app/theme-css?id=root-pseudo-class-selector */
 :root {
