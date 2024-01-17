@@ -80,6 +80,14 @@ img[alt~="center"] {
   margin: 0 auto;
 }
 
+img[alt~="left"] {
+  float: left;
+}
+
+img[alt~="right"] {
+  float: right;
+}
+
 /* https://github.com/marp-team/marpit/issues/178#issuecomment-511106762 */
 .table_clean tr,
 .table_clean td,
