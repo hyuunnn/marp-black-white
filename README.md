@@ -31,3 +31,5 @@ Add `Markdown > Marp: Themes`
 ## Thanks
 
 <a href="https://github.com/kaisugi/marp-theme-academic">kaisugi - marp-theme-academic</a>
+
+<a href="https://github.com/favourhong/Awesome-Marp">favourhong - Awesome-Marp</a>
