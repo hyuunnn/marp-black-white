@@ -37,6 +37,8 @@ section::after {
 
 code {
   font-family: 'Jetbrains Mono';
+  font-size: 0.8rem;
+  letter-spacing: -1px;
 }
 
 header {
