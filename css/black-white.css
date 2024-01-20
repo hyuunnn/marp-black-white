@@ -24,6 +24,14 @@ section:not(.lead) {
   justify-content: flex-start;
 }
 
+ul ul {
+  font-size: 0.9em;
+}
+
+ul ul li {
+  margin-top: 0; /* 위 여백을 없애기 */
+}
+
 section::after {
   /* https://github.com/marp-team/marpit/issues/271 */
   content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
