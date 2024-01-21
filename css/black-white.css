@@ -19,13 +19,19 @@ h1 {
   font-weight: 800;
 }
 
+/* 필요 이상으로 벌어지는 부분 처리 */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 section:not(.lead) {
   padding: 1rem;
   justify-content: flex-start;
 }
 
 ul ul {
-  font-size: 0.9em;
+  font-size: 0.95em;
 }
 
 section::after {
