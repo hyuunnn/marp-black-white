@@ -31,7 +31,7 @@ section:not(.lead) {
 }
 
 ul ul {
-  font-size: 0.95em;
+  font-size: 0.95em; /* default */
 }
 
 section::after {
